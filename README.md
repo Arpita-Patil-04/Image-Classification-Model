@@ -6,52 +6,52 @@ The model extracts features from images using wavelet transformation and image p
 
 Features
 
-Image preprocessing using OpenCV
+  Image preprocessing using OpenCV
 
-Feature extraction using Wavelet Transform
+  Feature extraction using Wavelet Transform
 
-Machine learning classification using Scikit-learn
+  Machine learning classification using Scikit-learn
 
-Model deployment using Flask API
+  Model deployment using Flask API
 
-Ability to classify images of multiple sports personalities
+  Ability to classify images of multiple sports personalities
 
 Sports Personalities Included
 
-Lionel Messi
+  Lionel Messi
 
-Maria Sharapova
+  Maria Sharapova
 
-Roger Federer
+  Roger Federer
 
-Serena Williams
+  Serena Williams
 
-Virat Kohli
+  Virat Kohli
 
 Technologies Used
 
-Python
+  Python
 
-OpenCV
+  OpenCV
 
-NumPy
+  NumPy
 
-PyWavelets
+  PyWavelets
 
-Scikit-learn
+  Scikit-learn
 
-Flask
+  Flask
 
 Project Workflow
 
-Collect and organize image dataset for each sports personality.
+  Collect and organize image dataset for each sports personality.
 
-Detect faces and eyes using Haar Cascade classifiers.
+  Detect faces and eyes using Haar Cascade classifiers.
 
-Apply wavelet transform to extract meaningful image features.
+  Apply wavelet transform to extract meaningful image features.
 
-Train a machine learning model using the extracted features.
+  Train a machine learning model using the extracted features.
 
-Save the trained model and class dictionary.
+  Save the trained model and class dictionary.
 
 Deploy the model using a Flask server to classify new images.
