@@ -5,41 +5,25 @@ This project is a machine learning-based image classification system that identi
 The model extracts features from images using wavelet transformation and image preprocessing techniques, and then applies a trained classification model to predict the most likely sports personality.
 
 Features
-
   Image preprocessing using OpenCV
-
   Feature extraction using Wavelet Transform
-
   Machine learning classification using Scikit-learn
-
   Model deployment using Flask API
-
   Ability to classify images of multiple sports personalities
 
 Sports Personalities Included
-
   Lionel Messi
-
   Maria Sharapova
-
   Roger Federer
-
   Serena Williams
-
   Virat Kohli
 
 Technologies Used
-
   Python
-
   OpenCV
-
   NumPy
-
   PyWavelets
-
   Scikit-learn
-
   Flask
 
 Project Workflow
